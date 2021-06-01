@@ -1,5 +1,5 @@
  
 	<?php 
-			echo "silence is golden";
+			echo "Buongiorno a tutti";
         ?>
 
