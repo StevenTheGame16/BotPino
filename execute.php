@@ -51,7 +51,19 @@
 		
 		
 		
-		//aggiungo il comando di invio
+		if($text = "ciao")[
+			$text ="Benvenuto";
+			$parameters= array('chat_id' => $chatId, "text" =>$text;
+
+
+
+
+                
+
+
+
+
+                //aggiungo il comando di invio
 		//e lo invio
 		
 		$parameters["method"] = "sendMessage";
