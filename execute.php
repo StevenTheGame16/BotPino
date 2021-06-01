@@ -51,9 +51,9 @@
 		
 		
 		
-		if($text = "ciao")[
-			$text ="Benvenuto";
-			$parameters= array('chat_id' => $chatId, "text" =>$text;
+		if($text = "ciao"){
+			$text = "Benvenuto";
+			$parameters = array('chat_id' => $chatId, "text" => $text);
 
 
 
