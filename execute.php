@@ -52,7 +52,7 @@
 		
 		
 		if($text == "ciao"){
-			$text = "Benvenuto";
+			$text = "Ciao uagliò";
 			$parameters = array('chat_id' => $chatId, "text" => $text);
 		}
 
